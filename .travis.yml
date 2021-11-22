@@ -4,7 +4,7 @@ node_js:
   - 12
 
 env: 
-  - 'DATABASE_URL=postgresql://postgres@localhost:5432/taxi_trip'
+  - 'DATABASE_URL=postgresql://postgres@localhost:5432/taxi_trips'
 
 before_script:
   - npm install
