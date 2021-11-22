@@ -20,5 +20,3 @@ insert into taxi(reg_number) values ('NUZ 238456');
 insert into region(id, name) values (1, 'Durban');
 insert into region(id, name) values (2, 'Cape Town');
 insert into region(id, name) values (3, 'Gauteng');
-
-insert into trip(routes_id, taxi_id) values(0, 0);
